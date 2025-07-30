@@ -50,6 +50,7 @@ Visit: http://localhost:3000/api
 
 📂 Project Structure
 
+```ruby
 src/
 ├── main.ts               # App entry point + Swagger setup
 ├── app.module.ts         # Root module
@@ -60,13 +61,12 @@ src/
     ├── task.model.ts     # Task type definition
     └── dto/
         └── create-task.dto.ts  # DTO for creating a task
+```
 
-🔚 Future Enhancements
+##  🔚 Future Enhancements
 Add database (PostgreSQL or MongoDB)
-
 Add authentication
-
 Deploy to a cloud platform (Render, Railway, etc.)
 
-👩‍💻 Author
+## 👩‍💻 Author
 Built by Tanushree Gangwal as part of learning NestJS.
