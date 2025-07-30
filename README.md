@@ -64,9 +64,9 @@ src/
 ```
 
 ##  🔚 Future Enhancements
-Add database (PostgreSQL or MongoDB)
-Add authentication
-Deploy to a cloud platform (Render, Railway, etc.)
+- Add database (PostgreSQL or MongoDB)
+- Add authentication
+- Deploy to a cloud platform (Render, Railway, etc.)
 
 ## 👩‍💻 Author
 Built by Tanushree Gangwal as part of learning NestJS.
